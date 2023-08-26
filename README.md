@@ -20,3 +20,4 @@ Welcome to the Apple Vision Pro Website project! This repository contains the co
 
 - **Newsletter Subscription:** Users can stay updated by subscribing to our newsletter, powered by JavaScript, to receive the latest news and insights about the Apple Vision Pro.
 
+Embrace innovation. Embrace the future. 🚀🌎 #AppleVisionPro #HTMLCSSJavaScript
