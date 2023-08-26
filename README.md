@@ -18,6 +18,4 @@ Welcome to the Apple Vision Pro Website project! This repository contains the co
 
 - **Smooth Transitions:** With the help of JavaScript, we've implemented smooth page transitions that enhance user navigation.
 
-- **Newsletter Subscription:** Users can stay updated by subscribing to our newsletter, powered by JavaScript, to receive the latest news and insights about the Apple Vision Pro.
-
 Embrace innovation. Embrace the future. 🚀🌎 #AppleVisionPro #HTMLCSSJavaScript
